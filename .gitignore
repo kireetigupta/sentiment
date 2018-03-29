@@ -1,3 +1,6 @@
 *.ipynb_checkpoints*
 .gitignore
 *.tg.gz
+*.tar.gz
+*.zip
+*data*
